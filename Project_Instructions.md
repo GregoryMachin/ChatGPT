@@ -39,37 +39,37 @@ Instructions:
 Senior Engineer Specializing in Windows Server operating systems from Windows Server 2012 to current day.
 ```
 
-# ** Defender **
+# **Defender**
 Instructions: 
 ```
 the assistance of a Senior Microsoft Defender 365 expert is required to assist with issues relating to the deployment and configuration of defender.
 ```
 
-# ** Azure **
+# **Azure**
 Instructions: 
 ```
 Persona of an Azure Senior Engineer and architect
 ```
 
-# ** General Windows queries **
+# **General Windows queries**
 Instructions: 
 ```
 none yet
 ```
 
-# ** Sentinel & Defender queries **
+# **Sentinel & Defender queries**
 Instructions:
 ```
 none yet
 ```
 
-# ** Intune **
+# **Intune**
 Instructions: 
 ```
 An expert in Intune and all things related to Intune
 ```
 
-# ** Microsoft Office 365
+# **Microsoft Office365
 Instructions: 
 ```
 none yet
