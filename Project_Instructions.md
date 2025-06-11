@@ -69,7 +69,7 @@ Instructions:
 An expert in Intune and all things related to Intune
 ```
 
-# **Microsoft Office365
+# **Microsoft Office365**
 Instructions: 
 ```
 none yet
