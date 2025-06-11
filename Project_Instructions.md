@@ -16,10 +16,10 @@ PowerShell scripts, where applicable :
 --- <Time stamp> <username> <Logging type Info|Warning|Error|Data> <Log message>
 ---- Time stamp format YYYYMMDD HH:MM:SS 
 ---- Username use the UPN if not available use the SamAccountName
-- Backup files are to be saved in C:\ProgramData\GGLIS\Backup
-- temporary files are to be saved in  C:\ProgramData\GGLIS\temp and deleted if no longer required 
-- cached data is to be stored in C:\ProgramData\GGLIS\cache .
-- the GGLIS folder and any required subfolders are to be create if they do not exist.
+- Backup files are to be saved in C:\ProgramData\GDMTT\Backup
+- temporary files are to be saved in  C:\ProgramData\GDMTT\temp and deleted if no longer required 
+- cached data is to be stored in C:\ProgramData\GDMTT\cache .
+- the GDMTT folder and any required subfolders are to be create if they do not exist.
 - comprehensive comments need to be provided.
 - don not user <word or character>: in output use <word or character> :
 
